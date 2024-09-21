@@ -35,7 +35,7 @@
         <stop offset="1" stop-color="#6284FF"/>
         </linearGradient>
         </defs>
-    </svg>`),r.css("background-image",'url("../temple/images/theme-white/bg/bg-main.jpg")')):(e.removeClass("white-theme").addClass("dark-theme"),i.html(`
+    </svg>`),r.css("background-image",'url("./temple/images/theme-white/bg/bg-main.jpg")')):(e.removeClass("white-theme").addClass("dark-theme"),i.html(`
     <path opacity="0.99" fill-rule="evenodd" clip-rule="evenodd" d="M7.91016 0C8.0508 0 8.19139 0 8.33203 0C8.66046 0.183528 8.77474 0.464778 8.6748 0.84375C6.76118 5.01079 6.90177 9.10649 9.09668 13.1309C11.6882 17.2929 15.4499 19.455 20.3818 19.6172C21.6659 19.6185 22.9227 19.4339 24.1523 19.0635C24.9259 18.794 25.6906 18.5039 26.4463 18.1934C26.6957 18.2236 26.8802 18.3467 27 18.5625C27 18.7207 27 18.8789 27 19.0371C24.8965 23.0989 21.6094 25.6565 17.1387 26.71C16.502 26.8321 15.8691 26.9288 15.2402 27C14.5547 27 13.8691 27 13.1836 27C8.32191 26.5032 4.58654 24.2005 1.97754 20.0918C0.877468 18.1892 0.21829 16.1502 0 13.9746C0 13.1836 0 12.3926 0 11.6016C0.620784 6.34331 3.2575 2.47612 7.91016 0Z" fill="white"/>`),a.html(`
     <svg>
         <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9205 17.9998L1.41851 28.066C-0.429799 29.8376 -0.479739 32.7594 1.30697 34.5921C3.09367 36.4248 6.04044 36.4743 7.88875 34.7027L19.7756 23.3092C22.804 20.4065 22.804 15.5932 19.7756 12.6904L7.88875 1.29697C6.04044 -0.474628 3.09367 -0.425109 1.30697 1.40758C-0.47974 3.24027 -0.4298 6.16212 1.41851 7.93372L11.9205 17.9998Z" fill="url(#paint0_linear_1592_434)"/>
@@ -62,4 +62,4 @@
         <stop offset="1" stop-color="#FF1D1D"/>
         </linearGradient>
         </defs>
-    </svg>`),r.css("background-image",'url("../temple/images/theme-dark/bg/bg-main-page.jpg")'))});
+    </svg>`),r.css("background-image",'url("./temple/images/theme-dark/bg/bg-main-page.jpg")'))});
